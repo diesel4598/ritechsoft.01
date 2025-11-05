@@ -1,0 +1,5 @@
+{
+  "name": "Grocery Store Management System",
+  "description": "A comprehensive web-based system for managing a grocery and household goods store, featuring modules for inventory, sales (POS), customer management, and reporting. This application provides a modern, user-friendly interface to streamline daily operations.",
+  "requestFramePermissions": []
+}
